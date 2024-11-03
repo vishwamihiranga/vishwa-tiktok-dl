@@ -1,0 +1,57 @@
+{
+  "name": "Vishwa Mihiranga",
+  "username": "vishwamihiranga",
+  "github": "https://github.com/vishwamihiranga",
+  "email": "vishwamihi@gmail.com",
+  "bio": "Developer skilled in creating innovative web applications, with a focus on user-friendly design and efficient functionality. ",
+  "projects": [
+    {
+      "name": "Vishwa Image DB",
+      "description": "A visually stunning image library website.",
+      "url": "https://vishwa-img-db.netlify.app",
+      "repository": "https://github.com/vishwamihiranga/vishwa-img-database"
+    },
+    {
+      "name": "Weather Search",
+      "description": "Real-time weather app with beautiful UI and accurate forecasts.",
+      "url": "https://vishwa-weather.netlify.app"
+    },
+    {
+      "name": "Facebook Video Downloader",
+      "description": "Download Facebook videos in high quality.",
+      "url": "https://vishwa-fbdl.netlify.app"
+    },
+    {
+      "name": "TikTok Downloader PRO",
+      "description": "Download TikTok videos without watermark.",
+      "url": "https://vishwa-tiktokdl.netlify.app"
+    },
+    {
+      "name": "Bhashi-MD",
+      "description": "Advanced WhatsApp Bot with automation features.",
+      "url": "https://github.com/vishwamihiranga/bhashi-md"
+    },
+    {
+      "name": "Time Genius",
+      "description": "Time management tool for kids.",
+      "url": "https://time-genius.netlify.app"
+    },
+    {
+      "name": "SL-MEDIA-PRO",
+      "description": "Sri Lankan media platform with unique features.",
+      "url": "http://slmediapro.rf.gd"
+    }
+  ],
+  "skills": {
+    "HTML/CSS": "90%",
+    "JavaScript": "85%",
+    "Node.js": "80%",
+    "Python": "75%"
+  },
+  "experience": {
+    "2024": "Launched multiple web applications and bots",
+    "2023": "Started freelancing and building custom solutions",
+    "2022": "Started learning programming languages"
+  },
+  "location": "Sri Lanka"
+}
