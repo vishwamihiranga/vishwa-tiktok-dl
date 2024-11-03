@@ -1,6 +1,6 @@
 # 📱 TikTok Video Downloader Pro
 
-Welcome to **TikTok Video Downloader Pro**(https://vishwa-tiktokdl.netlify.app)! A powerful, user-friendly web application that allows you to download TikTok videos without watermarks in high quality. Built with modern web technologies and designed for simplicity and efficiency.
+Welcome to **[TikTok Video Downloader Pro](https://vishwa-tiktokdl.netlify.app)**! A powerful, user-friendly web application that allows you to download TikTok videos without watermarks in high quality. Built with modern web technologies and designed for simplicity and efficiency.
 
 <p align="center">
   <img src="https://i.ibb.co/WggD3vW/image.png" alt="TikTok Downloader Screenshot 1">
@@ -21,16 +21,19 @@ Welcome to **TikTok Video Downloader Pro**(https://vishwa-tiktokdl.netlify.app)!
 
 Follow these steps to download TikTok videos:
 
-### Step 1: Copy Video Link
+### Step 1: Visit To Website
+[Visit Website TiktokDl Website](https://vishwa-tiktokdl.netlify.app)
+
+### Step 2: Copy Video Link
 Copy the link of the TikTok video you want to download from the TikTok app or website
 
-### Step 2: Paste URL
+### Step 3: Paste URL
 Paste the copied TikTok video URL into the input field on our website
 
-### Step 3: Process
+### Step 4: Process
 Click the "Download" button and wait for the video to be processed
 
-### Step 4: Download
+### Step 5: Download
 Click the download button to save the video to your device
 
 ## 📥 Installation
